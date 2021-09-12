@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ParwazRahman
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...  programing languages
-- 💞️ I’m looking to collaborate on ...projects that teach something
-- 📫 How to reach me ... @parwazrahman@gmail.com
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ...
+-  📫 How to reach me ... @parwazrahman@gmail.com
 
 <!---
 ParwazRahman/ParwazRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
